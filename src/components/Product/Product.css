@@ -1,0 +1,26 @@
+.product{
+ display: flex;
+ justify-content: center;
+ padding:10px;
+ border-bottom: 1px solid lightgray;
+ border-right: 1px solid lightgray;
+ margin: 0 auto;
+}
+.product-img img{
+ width: 260px;
+ height: 260px;
+}
+.product-img{
+ margin: 20px;
+}
+.btn-primary{
+ padding: 6px 40px;
+ font-weight: 600;
+ border: 1px solid lightgray;
+ background: goldenrod;
+ border-radius: 6px;
+}
+.star-icon{
+ color: darkorange;
+ font-size: 24px;
+}
